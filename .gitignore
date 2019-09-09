@@ -7,6 +7,9 @@
 # Ignore bundler config.
 /.bundle
 
+#Ignore .profile which has SendGrid API keys
+.profile
+
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
