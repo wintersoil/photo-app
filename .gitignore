@@ -9,6 +9,7 @@
 
 #Ignore .profile which has SendGrid API keys
 .profile
+.bash_profile
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
